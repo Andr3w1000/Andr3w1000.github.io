@@ -35,8 +35,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-        env:
-          JEKYLL_THEME: minima
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
