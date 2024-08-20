@@ -1,21 +1,16 @@
-title: Your awesome title
+title: Porfolio
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Bandi
+  email: andras.szuda@outlook.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Bandi documentation
 
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+minima:
+  skin: dark
 
 header_pages:
   - README.md
 
-minima:
-  skin: dark
