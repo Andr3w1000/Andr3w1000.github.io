@@ -15,7 +15,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
+  - README.md
 
 minima:
   skin: dark
