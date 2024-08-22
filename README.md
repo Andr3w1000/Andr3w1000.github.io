@@ -1,3 +1,3 @@
 ## Articles
 
-* [MSSQL CICD pipeline in Azure using yml pipelines](SqlServer/CICD.md)
+* [MSSQL CICD pipeline in Azure using yml pipelines](SQLServer/CICD.md)
